@@ -8,7 +8,7 @@
     1. hw prelecture checkpoint 140+/1000 在smart physics上 这个我一开始没怎么在意，后来我才发现错了一遍只扣20%，所以按理说及时改的话可以接近99%的
     2. 期中考试 80*3/1000 25题，1h30min 刁老师人好，大家走的都比较早。刁老师出题做mid sample看slide就行，其实不用做hw
     3. 期末考试 280/1000 25题，3h 刁老师人好，大家都是1h左右走的
-    4. lab 别晚交prelab就行
+    4. lab老师是夏焕新，最后lab基本都是95以上，大多数100，然后prelab基本也都是90以上，大多数100。
     5. quiz 看学长，我们学长挺好的，给的挺高的
     6. bonus 15分在iclicker 10分在discussion
     7. 上课 应该是看iclicker次数
@@ -20,4 +20,3 @@
     1. hw里面是代码，但是注意有可能有很多错
     2. slide里就是slide
   
-final-grade A
